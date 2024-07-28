@@ -1,0 +1,22 @@
+.banner {
+	background-image: url(../img/header-banner.jpg);
+	padding-top: 15%;
+	padding-bottom: 15%;
+	background-size: cover;
+}
+
+.contact {
+	background-image: url(../img/contact.jpg);
+	padding-top: 2%;
+	padding-bottom: 5%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.banner-portofolio {
+	background-image: url(../img/porto.jpg);
+	padding-top: 15%;
+	padding-bottom: 8%;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
